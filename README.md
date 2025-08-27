@@ -1,4 +1,4 @@
-# Helmet Detection using Deep Learning
+# Helmet Detection Traffic System using Deep Learning
 
 ## Project Overview
 
